@@ -10,7 +10,7 @@ Requirements
 Python 3.5 and above, Pip and MYSQL
 
 Install
-git clone https://github.com/daniEL2371/pharmaceutical-sales-prediction
+git clone [https://github.com/daniEL2371/pharmaceutical-sales-prediction](https://github.com/kartikgpt06/Pharma-Sales-Forecast)
 cd pharmaceutical-sales-prediction
 pip install -r requirements.txt
 Model tracking
